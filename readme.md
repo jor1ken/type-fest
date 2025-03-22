@@ -8,7 +8,6 @@
 	<br>
 	<br>
 	<br>
-	<br>
 	<hr>
 	<div align="center">
 		<p>
